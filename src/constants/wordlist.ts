@@ -1,4 +1,6 @@
-export const WORDS = [
+export const WORDS = ['gleam']
+
+export const WORDS2 = [
   'which',
   'there',
   'their',
