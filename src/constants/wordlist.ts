@@ -1,4 +1,4 @@
-export const WORDS = ['found']
+export const WORDS = ['gleam']
 
 export const WORDS2 = [
   'which',
